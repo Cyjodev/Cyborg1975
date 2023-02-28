@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cyborg1975
 - 👀 I’m interested in ...  Programming, VR, RPG games, anything technology
-- 🌱 I’m currently learning ... IT and coding soon as back end (C# and such) and or maybe mobile prog or web dev.
+- 🌱 I’m currently learning ... IT and coding soon as back end (Python mainly but later C# and Java) and or maybe mobile prog or web dev (javascript, css, etc.).
 - 💞️ I’m looking to collaborate on ... nothing for the moment, just getting to know stuff
 - 📫 How to reach me ... here ... 
 
